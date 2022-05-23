@@ -2,6 +2,8 @@
 
 Hello and welcome! In this project we'll launch a Linux Virtual Machine with Amazon Lightsail. Firstly, we'll create an Amazon Linux instance in Amazon Lightsail. After the instance is up and running, we'll connect to it via SSH within the Lightsail console using the browser-based SSH terminal.
 
+![](./og-amazon-lightsail.webp)
+
 [Lightsail](https://aws.amazon.com/lightsail/?p=gsrc&c=ho_lvm) is a Virtual Private Server (VPS) provider. Lightsail provides developers compute, storage, and networking capacity and capabilities to deploy and manage websites and web applications in the cloud. Lightsail includes everything you need to launch your project quickly – virtual machines, containers, databases, CDN, load balancers, DNS management etc. – for a low, predictable monthly price. It's a simple way to get started with AWS for developers, small businesses, students, and other users who need a solution to build and host their applications on cloud.
 
 ## Step One: Getting Started

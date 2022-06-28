@@ -68,7 +68,7 @@ We've successfully used Amazon Lightsail to easily spin up and configure a Linux
 
 ## Next Steps
 
-Now that you can connect to your instance, what you do next depends on how you plan to use it. For some ideas, make sure you check out our [resource center](https://aws.amazon.com/lightsail/resources/). Some common next steps include:
+Now that you can connect to your instance, what you do next depends on how you plan to use it! For some ideas, make sure you check out the AWS [resource center](https://aws.amazon.com/lightsail/resources/). Some common next steps include:
 
 - [Create a static IP address](https://lightsail.aws.amazon.com/ls/docs/en_us/articles/lightsail-create-static-ip) for your instance to keep the same IP address each time you stop and start your Lightsail instance.
 
